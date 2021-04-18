@@ -2,7 +2,7 @@
 """
 Created on Sun Apr 18 18:57:27 2021
 
-@author: hp
+@author: Sristi
 """
 
 # Simple Linear Regression
